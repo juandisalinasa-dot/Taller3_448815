@@ -1,0 +1,1 @@
+Los comandos sudo apt update y sudo apt upgrade se ejecutaron correctamente y no presentaron errores.
